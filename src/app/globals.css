@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Base reset */
+html, body {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+/* Component and utility styles can be added below */
+
+* {
+  box-sizing: border-box;
+}
